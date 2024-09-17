@@ -1,0 +1,17 @@
+canvas{
+    background-color: burlywood;
+}
+
+body{
+    background-color: gray;
+
+    display: flex;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    margin-left: 50px;
+}
